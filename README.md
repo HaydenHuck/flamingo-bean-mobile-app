@@ -1,6 +1,6 @@
 # Flamingo Bean App
 
-Flamingo Bean is a production-minded mobile ordering system for a real coffee business. The repository is organized as a small monorepo with a customer app, staff dashboard, and backend API.
+Flamingo Bean is a production-minded mobile ordering system for a real coffee roasting business. The repository is organized as a small monorepo with a customer app, staff dashboard, and backend API.
 
 ## Project Structure
 
